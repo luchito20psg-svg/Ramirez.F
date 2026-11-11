@@ -1,0 +1,17 @@
+.titulo {
+  color: #198754;
+  font-weight: bold;
+}
+
+.imagen-servicio {
+  height: 230px;
+  object-fit: cover;
+}
+
+.card {
+  transition: transform 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}

@@ -1,0 +1,15 @@
+.titulo {
+  color: #198754;
+  font-weight: bold;
+}
+
+.imagen-carrusel {
+  height: 450px;
+  object-fit: cover;
+  border-radius: 12px;
+}
+
+.carousel-caption {
+  background: rgba(0, 0, 0, 0.6);
+  border-radius: 8px;
+}
